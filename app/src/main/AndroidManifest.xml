@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2TALANG">
-        <activity android:name=".ProfilActivity"></activity>
+        <activity
+            android:name=".PerpusActivity"
+            android:exported="false" />
+        <activity android:name=".ProfilActivity" />
         <activity android:name=".ekskullActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
