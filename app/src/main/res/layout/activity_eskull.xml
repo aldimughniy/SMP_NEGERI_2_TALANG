@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bag2"
-    tools:context=".EkskulActivity">
+    tools:context=".ekskullActivity">
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -144,9 +144,9 @@
 
                             <!--                            Pembuka Menu 3-->
 
-<!--                            Penutup Menu 3-->
+                            <!--                            Penutup Menu 3-->
 
-<!--                            Pembuka Menu 4-->
+                            <!--                            Pembuka Menu 4-->
                             <LinearLayout
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
@@ -184,10 +184,12 @@
                                     </RelativeLayout>
                                 </androidx.cardview.widget.CardView>
                             </LinearLayout>
-<!--                            Penutup Menu 4-->
+                            <!--                            Penutup Menu 4-->
 
+                            <!--                            Pembuka Menu 5-->
+                                       Penutup Menu 5-->
 
-<!--                            Pembuka Menu 6-->
+                            <!--                            Pembuka Menu 6-->
                             <LinearLayout
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"

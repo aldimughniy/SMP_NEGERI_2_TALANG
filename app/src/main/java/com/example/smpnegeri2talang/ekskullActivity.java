@@ -10,7 +10,7 @@ public class ekskullActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_ekskull2);
+        setContentView(R.layout.activity_eskull);
     }
 
     public void osis(View view) {
@@ -20,5 +20,11 @@ public class ekskullActivity extends AppCompatActivity {
     }
 
     public void pramuka(View view) {
+    }
+
+    public void volly(View view) {
+    }
+
+    public void basket(View view) {
     }
 }
