@@ -9,19 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2TALANG">
-        <activity android:name=".GaleriActivity"></activity>
-        <activity android:name=".FasilitasActivity" />
+        <activity
+            android:name=".GuruActivity"
+            android:exported="false" />
         <activity
             android:name=".FasilitasActivity"
             android:exported="false" />
+        <activity android:name=".GaleriActivity" />
         <activity
             android:name=".PerpusActivity"
-            android:exported="true"/>
-        <activity android:name=".ProfilActivity"
-            android:exported="true"/>
-        <activity android:name=".ekskullActivity"
-            android:exported="true"/>
-        <activity android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ProfilActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ekskullActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
