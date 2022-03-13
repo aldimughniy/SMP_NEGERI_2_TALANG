@@ -22,6 +22,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="195dp">
+
                     <com.smarteist.autoimageslider.SliderView
                         android:id="@+id/image_slider"
                         android:layout_width="match_parent"

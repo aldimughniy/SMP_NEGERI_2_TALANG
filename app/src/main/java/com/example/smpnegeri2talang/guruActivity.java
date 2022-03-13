@@ -1,10 +1,10 @@
 package com.example.smpnegeri2talang;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
-public class GuruActivity extends AppCompatActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class guruActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

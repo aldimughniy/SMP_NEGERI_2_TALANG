@@ -18,7 +18,7 @@
             android:layout_height="350dp"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
-            android:src="@drawable/logosmp"/>
+            android:src="@drawable/logosmp1"/>
 
     </LinearLayout>
 

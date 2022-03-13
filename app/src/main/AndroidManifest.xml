@@ -10,12 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2TALANG">
         <activity
-            android:name=".GuruActivity"
+            android:name=".guruActivity"
             android:exported="false" />
         <activity
             android:name=".FasilitasActivity"
             android:exported="false" />
-        <activity android:name=".GaleriActivity" />
+        <activity
+            android:name=".GaleriActivity"
+            android:exported="false"/>
         <activity
             android:name=".PerpusActivity"
             android:exported="true" />
@@ -27,8 +29,11 @@
             android:exported="true" />
         <activity
             android:name=".MainActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".SplashScreenActivity"
             android:exported="true">
-            <intent-filter>
+        <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
