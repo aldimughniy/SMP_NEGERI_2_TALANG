@@ -13,6 +13,27 @@
             android:name=".guruActivity"
             android:exported="false" />
         <activity
+            android:name=".osisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BasketActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Buku7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Buku8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Buku9Activity"
+            android:exported="false" />
+        <activity
             android:name=".FasilitasActivity"
             android:exported="false" />
         <activity
@@ -20,16 +41,19 @@
             android:exported="false"/>
         <activity
             android:name=".PerpusActivity"
-            android:exported="true" />
+            android:exported="false" />
         <activity
             android:name=".ProfilActivity"
-            android:exported="true" />
+            android:exported="false" />
         <activity
             android:name=".ekskullActivity"
-            android:exported="true" />
+            android:exported="false"/>
         <activity
             android:name=".MainActivity"
-            android:exported="true"/>
+            android:exported="false"/>
+        <activity
+            android:name=".VollyActivity"
+            android:exported="false"/>
         <activity
             android:name=".SplashScreenActivity"
             android:exported="true">

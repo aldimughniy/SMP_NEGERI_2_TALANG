@@ -2,6 +2,7 @@ package com.example.smpnegeri2talang;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
@@ -14,17 +15,27 @@ public class ekskullActivity extends AppCompatActivity {
     }
 
     public void osis(View view) {
+        Intent intent = new Intent(ekskullActivity.this, osisActivity.class);
+        startActivity(intent);
     }
 
     public void pmr(View view) {
+        Intent intent = new Intent(ekskullActivity.this, pmrActivity.class);
+        startActivity(intent);
     }
 
     public void pramuka(View view) {
+        Intent intent = new Intent(ekskullActivity.this, PramukaActivity.class);
+        startActivity(intent);
     }
 
     public void volly(View view) {
-    }
+        Intent intent = new Intent(ekskullActivity.this, VollyActivity.class);
+        startActivity(intent);
+        }
 
     public void basket(View view) {
+        Intent intent = new Intent(ekskullActivity.this, BasketActivity.class);
+        startActivity(intent);
     }
 }
