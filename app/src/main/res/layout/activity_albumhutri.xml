@@ -31,7 +31,7 @@
                         android:layout_width="400dp"
                         android:adjustViewBounds="true"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/hut1"/>
+                        android:src="@drawable/header"/>
 
                 </LinearLayout>
 <!--                TUTUP GAMBAR 1-->
