@@ -20,7 +20,7 @@ public class ekskullActivity extends AppCompatActivity {
     }
 
     public void pmr(View view) {
-        Intent intent = new Intent(ekskullActivity.this, pmrActivity.class);
+        Intent intent = new Intent(ekskullActivity.this, PmrActivity.class);
         startActivity(intent);
     }
 
