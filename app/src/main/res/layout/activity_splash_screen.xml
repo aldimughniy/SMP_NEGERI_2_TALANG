@@ -19,6 +19,15 @@
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
             android:src="@drawable/logosmp1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="SMK YPT"
+            android:layout_marginLeft="115dp"
+            android:layout_marginRight="5dp"/>
+
+
+
 
     </LinearLayout>
 
