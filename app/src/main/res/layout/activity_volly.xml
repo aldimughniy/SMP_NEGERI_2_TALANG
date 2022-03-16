@@ -93,7 +93,7 @@
                         android:layout_marginLeft="80dp"
                         android:layout_marginTop="42dp"
                         android:textSize="18sp"
-                        android:text="SMP IHSANIYAH KOTA TEGAL"/>
+                        android:text="SMP NEGERI 2 TALANG"/>
 
                     <LinearLayout
                         android:layout_marginTop="75dp"

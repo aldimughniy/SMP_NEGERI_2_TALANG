@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2TALANG">
         <activity
+            android:name=".albumpramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".albumhutriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".albumosisActivity"
+            android:exported="false" />
+        <activity
             android:name=".guruActivity"
             android:exported="false" />
         <activity
@@ -38,7 +47,7 @@
             android:exported="false" />
         <activity
             android:name=".GaleriActivity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".PerpusActivity"
             android:exported="false" />
@@ -47,17 +56,17 @@
             android:exported="false" />
         <activity
             android:name=".ekskullActivity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".VollyActivity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".SplashScreenActivity"
             android:exported="true">
-        <intent-filter>
+            <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />

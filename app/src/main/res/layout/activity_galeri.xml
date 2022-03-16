@@ -56,7 +56,7 @@
 
                 <!--                            pembuka menu 1-->
                 <androidx.cardview.widget.CardView
-                    android:onClick="albumpelantikanosis"
+                    android:onClick="albumosis"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_rowWeight="1"
@@ -74,6 +74,7 @@
                         android:layout_gravity="center"
                         android:background="#FF8C"
                         android:orientation="horizontal">
+
 
 
                         <ImageView
@@ -94,7 +95,7 @@
                             android:layout_marginLeft="50dp"
                             android:textStyle="bold"
                             android:textSize="20dp"
-                            android:text="KEGIATAN PELANTIKAN OSIS">
+                            android:text="KEGIATAN OSIS">
 
                         </TextView>
 
@@ -107,7 +108,7 @@
                 <!--                            pembuka menu 2-->
 
                 <androidx.cardview.widget.CardView
-                    android:onClick="albumperpisahan"
+                    android:onClick="kegiatanpramuka"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_rowWeight="1"
@@ -156,7 +157,7 @@
                 <!--                            penutup menu 2-->
                 <!--                            pembuka menu 1-->
                 <androidx.cardview.widget.CardView
-                    android:onClick="hutri"
+                    android:onClick="albumhutri"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_rowWeight="1"
