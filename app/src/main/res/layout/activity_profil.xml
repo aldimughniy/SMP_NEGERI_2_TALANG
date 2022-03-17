@@ -120,7 +120,7 @@
                             android:layout_marginRight="12dp"
                             android:textSize="15sp"
                             android:textStyle="bold"
-                            android:text="Kepala Sekolah : Djoko Eko Pratomo"
+                            android:text="Kepala Sekolah : Rosidin"
                             android:textColor="#000"/>
 
                         <TextView
