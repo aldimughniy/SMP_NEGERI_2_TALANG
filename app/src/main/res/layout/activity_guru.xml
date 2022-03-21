@@ -42,7 +42,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/rosidin" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -56,7 +56,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="ROSIDIN"
+                        android:text="ROSIDIN, S.PD"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -76,7 +76,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -102,7 +102,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/susanti" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -126,7 +126,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU IPS"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -136,7 +136,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -186,7 +186,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU NATEMATIKA"
+                        android:text="GURU BAHASA JAWA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -196,7 +196,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -222,7 +222,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/indri" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -256,7 +256,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -282,7 +282,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/asri" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -316,7 +316,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -376,7 +376,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -436,7 +436,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -496,7 +496,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -556,7 +556,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -616,7 +616,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -666,7 +666,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BAHASA INGGRIS"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -676,7 +676,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -736,7 +736,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -796,7 +796,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -856,7 +856,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -916,7 +916,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -976,7 +976,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1036,7 +1036,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1096,7 +1096,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1156,7 +1156,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1216,7 +1216,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1276,7 +1276,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1336,7 +1336,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1396,7 +1396,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1456,7 +1456,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1516,7 +1516,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1576,7 +1576,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1636,7 +1636,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1696,7 +1696,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1756,7 +1756,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1796,7 +1796,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="MUSTIKA ALAM"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -1816,7 +1816,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1856,7 +1856,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="ANDI NUR ANWAR"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -1876,7 +1876,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1916,7 +1916,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="WIRTO"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -1936,7 +1936,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1976,7 +1976,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="EDI SUSANTO"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -1996,7 +1996,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2036,7 +2036,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="SUKIRMAN"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2056,7 +2056,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2096,7 +2096,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="EDI HARJOKO"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2116,7 +2116,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2156,7 +2156,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="SUMARNO"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2176,7 +2176,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2216,7 +2216,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="TARKAMAH"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2236,7 +2236,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />

@@ -7,7 +7,15 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.ViewConfiguration;
 
+import com.smarteist.autoimageslider.SliderView;
+
 public class MainActivity extends AppCompatActivity {
+
+    SliderView sliderView;
+    int[] images = {R.drawable.logosmp,
+            R.drawable.logosmp,
+            R.drawable.logosmp,
+            R.drawable.logosmp};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
