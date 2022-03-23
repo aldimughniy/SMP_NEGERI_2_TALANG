@@ -34,8 +34,8 @@ public class ekskullActivity extends AppCompatActivity {
         startActivity(intent);
         }
 
-    public void basket(View view) {
-        Intent intent = new Intent(ekskullActivity.this, BasketActivity.class);
+    public void silat(View view) {
+        Intent intent = new Intent(ekskullActivity.this, SilatActivity.class);
         startActivity(intent);
     }
 }

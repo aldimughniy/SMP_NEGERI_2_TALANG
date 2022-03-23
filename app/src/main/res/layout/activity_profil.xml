@@ -130,7 +130,7 @@
                             android:layout_marginRight="12dp"
                             android:textSize="15sp"
                             android:textStyle="bold"
-                            android:text="Alamat : Branten"
+                            android:text="Alamat : WANGANDAWA"
                             android:textColor="#000"/>
 
                         <TextView
@@ -150,7 +150,7 @@
                             android:layout_marginRight="12dp"
                             android:textSize="15sp"
                             android:textStyle="bold"
-                            android:text="Desa / Kelurahan : Branten"
+                            android:text="Desa / Kelurahan : WANGANDAWA"
                             android:textColor="#000"/>
 
                         <TextView
@@ -464,7 +464,15 @@
                             android:textSize="15sp"
                             android:textStyle="bold"
                             android:text="5.  Menciptakan pelestarian lingkungan."/>
-
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="12dp"
+                            android:layout_marginRight="12dp"
+                            android:textColor="#000"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:text="6. Mengupayakan pencegahan terjadinya pencemaran lingkungan."/>
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -474,8 +482,7 @@
                             android:textColor="#000"
                             android:textSize="15sp"
                             android:textStyle="bold"
-                            android:text="6. Mengupayakan pencegahan terjadinya pencemaran lingkungan."/>
-
+                            android:text="7. Mengupayakan pencegahan terjadinya kerusakan lingkungan"/>
                     </LinearLayout>
 
                 </androidx.cardview.widget.CardView>
