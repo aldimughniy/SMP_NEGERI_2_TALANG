@@ -20,23 +20,29 @@
             android:layout_centerVertical="true"
             android:src="@drawable/logosmp1"/>
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="SMP N 2 TALANG"
-            android:gravity="center"
-            android:textStyle="bold"
-            android:textSize="15dp"
-            android:textColor="#000"/>
-
+            android:text="DIBUAT OLEH :"
+            android:textColor="#0000FF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
 
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="SMP N 2 TALANG"
-            android:gravity="center"
-            android:textStyle="bold"
-            android:textSize="15dp"
-            android:textColor="#000"/>
+            android:text="SMK YPT KOTA TEGAL"
+            android:textColor="#0000FF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TAHUN 2022"
+            android:textColor="#0000FF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
 
     </LinearLayout>
 

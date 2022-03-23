@@ -85,7 +85,7 @@
                         android:textColor="#000"
                         android:textSize="18sp"
                         android:textStyle="bold"
-                        android:text=""/>
+                        android:text="PENCAK SILAT"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -93,7 +93,7 @@
                         android:layout_marginLeft="80dp"
                         android:layout_marginTop="42dp"
                         android:textSize="18sp"
-                        android:text="SMP IHSANIYAH KOTA TEGAL"/>
+                        android:text="SMP 2 TALANG"/>
 
                     <LinearLayout
                         android:layout_marginTop="75dp"

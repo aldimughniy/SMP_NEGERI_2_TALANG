@@ -28,10 +28,10 @@
             android:name=".PramukaActivity"
             android:exported="false" />
         <activity
-            android:name=".BasketActivity"
+            android:name=".silatActivity"
             android:exported="false" />
         <activity
-            android:name=".pmrActivity"
+            android:name=".PmrActivity"
             android:exported="false" />
         <activity
             android:name=".Buku7Activity"

@@ -35,7 +35,7 @@ public class ekskullActivity extends AppCompatActivity {
         }
 
     public void silat(View view) {
-        Intent intent = new Intent(ekskullActivity.this, SilatActivity.class);
+        Intent intent = new Intent(ekskullActivity.this, silatActivity.class);
         startActivity(intent);
     }
 }
