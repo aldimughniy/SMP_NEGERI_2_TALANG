@@ -2514,7 +2514,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="RAJI"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2524,7 +2524,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="STAFF"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2534,7 +2534,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2574,7 +2574,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="EKA PRASETYA"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2584,7 +2584,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="STAFF"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2594,7 +2594,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2634,7 +2634,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="HERI ABADI"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2644,7 +2644,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="STAFF"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2654,7 +2654,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2694,7 +2694,67 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="AHMAD MUQOFA"
+                        android:textColor="#000"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text="STAFF"
+                        android:textColor="#4CAF50"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="#F44336"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginBottom="12dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/untungstaf" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="100dp"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text="UNTUNG SUBEKTI"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2714,7 +2774,127 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
+                        android:textColor="#F44336"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginBottom="12dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/apip" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="100dp"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text="AFIP SYAWALUDIN"
+                        android:textColor="#000"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text="STAFF"
+                        android:textColor="#4CAF50"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="#F44336"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="12dp"
+                android:layout_marginBottom="12dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="8dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/mazistaf" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="100dp"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text="MOHAMAD MAZIDUL KHOER"
+                        android:textColor="#000"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text="STAFF"
+                        android:textColor="#4CAF50"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="50dp"
+                        android:gravity="center"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2754,7 +2934,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="DJOKO EKO PRATOMO"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2764,7 +2944,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="STAFF"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2774,7 +2954,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2814,7 +2994,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="ABIYYU KHOSYI SATRIA HADIWIJAYA"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2824,7 +3004,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="STAFF"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2834,7 +3014,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2874,7 +3054,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
+                        android:text="SODIKIN"
                         android:textColor="#000"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -2884,7 +3064,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="STAFF"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2894,547 +3074,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
-                        android:textColor="#F44336"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="150dp"
-                android:layout_height="150dp"
-                android:layout_rowWeight="1"
-                android:layout_columnWeight="1"
-                android:layout_marginLeft="12dp"
-                android:layout_marginTop="3dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginBottom="12dp"
-                app:cardCornerRadius="8dp"
-                app:cardElevation="8dp">
-
-                <ImageView
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:layout_gravity="center_vertical"
-                    android:layout_margin="10dp"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="100dp"
-                    android:gravity="center_vertical"
-                    android:orientation="vertical">
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="RAINNY PIRMAWATI"
-                        android:textColor="#000"
-                        android:textSize="20sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="GURU"
-                        android:textColor="#4CAF50"
-                        android:textSize="17sp"
-                        android:textStyle="bold" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="50dp"
-                        android:gravity="center"
-                        android:text="2086774289 157892 1 004"
+                        android:text=""
                         android:textColor="#F44336"
                         android:textSize="17sp"
                         android:textStyle="bold" />
