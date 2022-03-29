@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".visimisActivity">
+
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="20dp">
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="60dp"
+          android:layout_gravity="center"
+          android:background="#673AB7"
+          android:gravity="center"
+          android:paddingLeft="10dp"
+          android:paddingRight="10dp"
+          android:text="VISI"
+          android:textSize="40dp"
+          android:textStyle="bold">
+
+      </TextView>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="93dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="Terbentuknya generasi muslim yang Beriman,Bertaqwa,Trampil,Unggul dalam prestasi berwawasan IPTEK dan berbudaya lingkungan."
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:textStyle="bold">
+
+        </TextView>
+
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="600dp"
+          android:orientation="vertical"
+          android:layout_margin="1dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:background="#673AB7"
+            android:gravity="center"
+            android:text="MISI"
+            android:textSize="40dp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:paddingLeft="10dp"
+              android:text="1.Meningkatkan pengamalan ajaran islam dan akhlaqul karimah.
+                                     2.Melaksanakan berbagai inovasi pembelajaran (PAIKEM).
+                                     3.Melaksanakan pembelajaran dan bimbingan secara efektif dan efisien.
+                                     4.Mendorong dan membentuk setiap peserta didik untuk mengenal potensinya.
+                                     5.Meningkatkan keterampilan akademik dan non akademik.
+                                     6.Meningkatkan disiplin dan etos kerja yang tinggi pelayanan prima.
+                                     7.Menumbuhkan semangat apresiasi seni olahraga dan IPTEK seluruh warga sekolah.
+                                     8.Menjalin kerja sama yang harmonis antara warga sekolah dan lingkungan.
+"
+              android:textSize="20dp"
+              android:textStyle="bold">
+
+          </TextView>
+
+
+
+        </LinearLayout>
+      </LinearLayout>
+
+
+    </LinearLayout>
+
+  </ScrollView>
+
+
+</RelativeLayout>

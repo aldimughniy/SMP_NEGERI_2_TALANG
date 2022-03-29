@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2TALANG">
         <activity
+            android:name=".AdiwiyataActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".visimisActivity"
+            android:exported="false" />
+        <activity
             android:name=".albumpramukaActivity"
             android:exported="false" />
         <activity
