@@ -86,7 +86,7 @@
                         android:textColor="#000"
                         android:textSize="18sp"
                         android:textStyle="bold"
-                        android:text="EKSKUL PMR"/>
+                        android:text="PMR"/>
 
                     <TextView
                         android:layout_width="wrap_content"

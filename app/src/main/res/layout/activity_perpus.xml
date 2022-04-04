@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/hitames"
     tools:context=".PerpusActivity">
 
     <FrameLayout
@@ -19,31 +18,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical">
-                <RelativeLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="195dp">
 
-                    <com.smarteist.autoimageslider.SliderView
-                        android:id="@+id/image_slider"
-                        android:layout_width="match_parent"
-                        android:layout_height="188dp"
-                        app:sliderAnimationDuration="1200"
-                        app:sliderAutoCycleDirection="back_and_forth"
-                        app:sliderAutoCycleEnabled="true"
-                        app:sliderIndicatorAnimationDuration="700"
-                        app:sliderIndicatorGravity="center_horizontal|bottom"
-                        app:sliderIndicatorMargin="15dp"
-                        app:sliderIndicatorOrientation="horizontal"
-                        app:sliderIndicatorPadding="3dp"
-                        app:sliderIndicatorRadius="2dp"
-                        app:sliderIndicatorSelectedColor="#5A5A5A"
-                        app:sliderIndicatorUnselectedColor="#FFF"
-                        app:sliderScrollTimeInSec="2"
-                        app:sliderStartAutoCycle="true" />
-
-
-
-                </RelativeLayout>
 
                 <androidx.constraintlayout.widget.ConstraintLayout
                     android:layout_width="match_parent"
@@ -77,7 +52,6 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:background="#020202"
                                 android:orientation="horizontal">
 
 
@@ -88,7 +62,7 @@
                                     android:layout_gravity="center"
                                     android:layout_marginRight="10dp"
                                     android:layout_marginTop="10dp"
-                                    android:src="@drawable/tujuh">
+                                    android:src="@drawable/seven">
 
                                 </ImageView>
 
@@ -99,7 +73,7 @@
                                     android:layout_marginLeft="10dp"
                                     android:text="BUKU KELAS VII"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"
+                                    android:textColor="#0B0C0C"
                                     android:textSize="20dp">
 
                                 </TextView>
@@ -129,7 +103,6 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:background="#0B0C0C"
                                 android:orientation="horizontal">
 
 
@@ -140,7 +113,7 @@
                                     android:layout_gravity="center"
                                     android:layout_marginRight="10dp"
                                     android:layout_marginTop="10dp"
-                                    android:src="@drawable/delapan">
+                                    android:src="@drawable/eight">
 
                                 </ImageView>
 
@@ -151,7 +124,7 @@
                                     android:layout_marginLeft="10dp"
                                     android:text="BUKU KELAS VIII"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"
+                                    android:textColor="#0B0C0C"
                                     android:textSize="20dp">
 
                                 </TextView>
@@ -179,7 +152,6 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
                                 android:layout_gravity="center"
-                                android:background="#100F0D"
                                 android:orientation="horizontal">
 
 
@@ -190,7 +162,7 @@
                                     android:layout_gravity="center"
                                     android:layout_marginRight="10dp"
                                     android:layout_marginTop="10dp"
-                                    android:src="@drawable/sembilan">
+                                    android:src="@drawable/nine">
 
                                 </ImageView>
 
@@ -201,7 +173,7 @@
                                     android:layout_marginLeft="10dp"
                                     android:text="BUKU KELAS IX"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"
+                                    android:textColor="#0B0C0C"
                                     android:textSize="20dp">
 
                                 </TextView>

@@ -760,7 +760,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/fitri" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -2380,7 +2380,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/raji" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -2644,7 +2644,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="STAFF"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />

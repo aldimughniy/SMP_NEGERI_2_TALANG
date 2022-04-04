@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/hitames"
     tools:context=".ekskullActivity">
     <FrameLayout
         android:layout_width="match_parent"
@@ -30,13 +29,15 @@
 
                         <GridLayout
                             android:id="@+id/mainGrid"
-                            android:layout_width="match_parent"
-                            android:layout_weight="9"
-                            android:layout_height="match_parent"
+                            android:layout_width="432dp"
+                            android:layout_height="890dp"
                             android:layout_gravity="center_horizontal"
+                            android:layout_weight="9"
                             android:alignmentMode="alignMargins"
                             android:columnCount="1"
-                            android:columnOrderPreserved="false">
+                            android:columnOrderPreserved="false"
+                            tools:layout_editor_absoluteX="-21dp"
+                            tools:layout_editor_absoluteY="-18dp">
 
                             <!--                            Pembuka Menu 1-->
                             <LinearLayout
@@ -47,9 +48,9 @@
                                 <androidx.cardview.widget.CardView
                                     android:layout_width="match_parent"
                                     android:layout_height="120dp"
-                                    app:cardCornerRadius="15dp"
                                     android:layout_marginTop="20dp"
-                                    android:onClick="pramuka">
+                                    android:onClick="pramuka"
+                                    app:cardCornerRadius="15dp">
 
                                     <RelativeLayout
                                         android:layout_width="match_parent"
@@ -87,9 +88,9 @@
                                 <androidx.cardview.widget.CardView
                                     android:layout_width="match_parent"
                                     android:layout_height="120dp"
-                                    app:cardCornerRadius="15dp"
                                     android:layout_marginTop="20dp"
-                                    android:onClick="pmr">
+                                    android:onClick="pmr"
+                                    app:cardCornerRadius="15dp">
 
                                     <RelativeLayout
                                         android:layout_width="match_parent"
@@ -131,9 +132,9 @@
                                 <androidx.cardview.widget.CardView
                                     android:layout_width="match_parent"
                                     android:layout_height="120dp"
-                                    app:cardCornerRadius="15dp"
                                     android:layout_marginTop="20dp"
-                                    android:onClick="volly">
+                                    android:onClick="volly"
+                                    app:cardCornerRadius="15dp">
 
                                     <RelativeLayout
                                         android:layout_width="match_parent"
@@ -162,7 +163,6 @@
                             </LinearLayout>
                             <!--                            Penutup Menu 4-->
 
-                           
 
                             <!--                            Pembuka Menu 6-->
                             <LinearLayout
@@ -173,9 +173,9 @@
                                 <androidx.cardview.widget.CardView
                                     android:layout_width="match_parent"
                                     android:layout_height="120dp"
-                                    app:cardCornerRadius="15dp"
                                     android:layout_marginTop="20dp"
-                                    android:onClick="silat">
+                                    android:onClick="silat"
+                                    app:cardCornerRadius="15dp">
 
                                     <RelativeLayout
                                         android:layout_width="match_parent"
