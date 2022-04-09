@@ -364,7 +364,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BK"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -424,7 +424,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BK"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -604,7 +604,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BAHASA INDONESIA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -784,7 +784,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU IPS"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -844,7 +844,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BAHASA INDONESIA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -964,7 +964,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU PKN"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1024,7 +1024,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BAHASA INGGRIS"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1084,7 +1084,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BAHASA INDONESIA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1144,7 +1144,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU IPA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1204,7 +1204,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU IPA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1264,7 +1264,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BAHASA INDONESIA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1324,7 +1324,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU AGAMA ISLAM"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1624,7 +1624,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU OLAHRAGA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1684,7 +1684,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU SENI BUDAYA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1804,7 +1804,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU PPKN"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1864,7 +1864,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU MATEMATIKA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1924,7 +1924,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU PRAKARYA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -1984,7 +1984,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU MATEMATIKA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2044,7 +2044,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU MATEMATIKA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2104,7 +2104,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU BAHASA INGGRIS"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2140,7 +2140,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/tarkamah" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -2164,7 +2164,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="50dp"
                         android:gravity="center"
-                        android:text="GURU"
+                        android:text="GURU MATEMATIKA"
                         android:textColor="#4CAF50"
                         android:textSize="17sp"
                         android:textStyle="bold" />
@@ -2500,7 +2500,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/heri" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
