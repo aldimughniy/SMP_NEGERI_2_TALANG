@@ -30,4 +30,10 @@ public class GaleriActivity extends AppCompatActivity {
         Intent intent = new Intent(GaleriActivity.this, albumpramukaActivity.class);
         startActivity(intent);
     }
+
+    public void adiwiyata(View view) {
+    }
+
+    public void kemah(View view) {
+    }
 }
