@@ -14,13 +14,6 @@ public class GaleriActivity extends AppCompatActivity {
         setContentView(R.layout.activity_galeri);
     }
 
-    public void albumosis(View view) {
-        Intent intent = new Intent(GaleriActivity.this, albumosisActivity.class);
-        startActivity(intent);
-    }
-
-
-
     public void albumhutri(View view) {
         Intent intent = new Intent(GaleriActivity.this, albumhutriActivity.class);
         startActivity(intent);
@@ -32,8 +25,15 @@ public class GaleriActivity extends AppCompatActivity {
     }
 
     public void adiwiyata(View view) {
+        Intent intent = new Intent(GaleriActivity.this, AdiwiyataActivity.class);
+        startActivity(intent);
     }
 
     public void kemah(View view) {
+    }
+
+    public void albumosis(View view) {
+        Intent intent = new Intent(GaleriActivity.this, albumosisActivity.class);
+        startActivity(intent);
     }
 }

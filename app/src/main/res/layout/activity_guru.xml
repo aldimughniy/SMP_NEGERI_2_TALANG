@@ -2560,7 +2560,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/logosmp" />
+                    android:src="@drawable/ahmad" />
 
                 <LinearLayout
                     android:layout_width="match_parent"

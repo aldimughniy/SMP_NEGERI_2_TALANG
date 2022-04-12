@@ -31,7 +31,7 @@
                         android:layout_width="400dp"
                         android:adjustViewBounds="true"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/header"/>
+                        android:src="@drawable/berbagi"/>
 
                 </LinearLayout>
 <!--                TUTUP GAMBAR 1-->
