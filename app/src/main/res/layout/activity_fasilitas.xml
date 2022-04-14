@@ -105,7 +105,7 @@
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
                             android:textSize="20dp"
-                            android:text="Halaman depan berisi parkiran, taman depan, dekat pintu masuk lobi."/>
+                            android:text="perpustakaan ataupun rumah buku, adalah sebuah koleksi buku dan majalah. "/>
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
@@ -247,7 +247,7 @@
                                     android:layout_height="200dp"
                                     android:layout_marginTop="80dp"
                                     android:layout_marginRight="12dp"
-                                    android:src="@drawable/logosmp" />
+                                    android:src="@drawable/lapangan" />
 
                             </LinearLayout>
                             <RelativeLayout

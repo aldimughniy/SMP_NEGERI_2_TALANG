@@ -54,7 +54,6 @@
                                     <RelativeLayout
                                         android:layout_width="match_parent"
                                         android:layout_height="match_parent"
-                                        android:background="#8FC3D8"
                                         android:padding="10dp">
 
                                         <TextView
@@ -63,7 +62,7 @@
                                             android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
                                             android:text="Pramuka"
-                                            android:textColor="#fff"
+                                            android:textColor="#00080B"
                                             android:textSize="30sp"
                                             android:textStyle="bold" />
 
@@ -94,7 +93,6 @@
                                     <RelativeLayout
                                         android:layout_width="match_parent"
                                         android:layout_height="match_parent"
-                                        android:background="#B22"
                                         android:padding="10dp">
 
                                         <TextView
@@ -103,7 +101,7 @@
                                             android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
                                             android:text="PMR"
-                                            android:textColor="#fff"
+                                            android:textColor="#00080B"
                                             android:textSize="30sp"
                                             android:textStyle="bold" />
 
@@ -144,7 +142,6 @@
                                     <RelativeLayout
                                         android:layout_width="match_parent"
                                         android:layout_height="match_parent"
-                                        android:background="#87CEFA"
                                         android:padding="10dp">
 
                                         <TextView
@@ -153,7 +150,7 @@
                                             android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
                                             android:text="Volly"
-                                            android:textColor="#fff"
+                                            android:textColor="#00080B"
                                             android:textSize="30sp"
                                             android:textStyle="bold" />
 
@@ -184,7 +181,6 @@
                                     <RelativeLayout
                                         android:layout_width="match_parent"
                                         android:layout_height="match_parent"
-                                        android:background="#D3D3D3"
                                         android:padding="10dp">
 
                                         <TextView
@@ -193,7 +189,7 @@
                                             android:layout_marginLeft="10dp"
                                             android:layout_marginTop="10dp"
                                             android:text="SILAT"
-                                            android:textColor="#fff"
+                                            android:textColor="#00080B"
                                             android:textSize="30sp"
                                             android:textStyle="bold" />
 

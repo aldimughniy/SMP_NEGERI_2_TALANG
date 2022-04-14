@@ -25,9 +25,6 @@
             android:name=".albumhutriActivity"
             android:exported="false" />
         <activity
-            android:name=".albumosisActivity"
-            android:exported="false" />
-        <activity
             android:name=".guruActivity"
             android:exported="false" />
         <activity

@@ -92,7 +92,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
                                     android:text="MATEMATIKA"
-                                    android:textColor="#fff"
+                                    android:textColor="#000000"
                                     android:textSize="20dp"
                                     android:textStyle="bold" />
 
@@ -102,7 +102,7 @@
                                     android:layout_gravity="center"
                                     android:text="SEMESTER 1"
                                     android:textSize="10dp"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -141,7 +141,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                                 <TextView
                                     android:layout_width="wrap_content"
@@ -149,7 +149,7 @@
                                     android:layout_gravity="center"
                                     android:text="SEMESTER 2"
                                     android:textSize="10dp"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -195,7 +195,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                                 <TextView
                                     android:layout_width="wrap_content"
@@ -203,7 +203,7 @@
                                     android:layout_gravity="center"
                                     android:text="SEMESTER 1"
                                     android:textSize="10dp"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -240,7 +240,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                                 <TextView
                                     android:layout_width="wrap_content"
@@ -248,7 +248,7 @@
                                     android:layout_gravity="center"
                                     android:text="SEMESTER 2"
                                     android:textSize="10dp"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -293,7 +293,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                                 <TextView
                                     android:layout_width="wrap_content"
@@ -301,7 +301,7 @@
                                     android:layout_gravity="center"
                                     android:text="SEMESTER 1"
                                     android:textSize="10dp"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -338,7 +338,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                                 <TextView
                                     android:layout_width="wrap_content"
@@ -346,7 +346,7 @@
                                     android:layout_gravity="center"
                                     android:text="SEMESTER 2"
                                     android:textSize="10dp"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -389,7 +389,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
                                     android:text="BAHASA"
-                                    android:textColor="#fff"
+                                    android:textColor="#000000"
                                     android:textSize="20dp"
                                     android:textStyle="bold" />
 
@@ -398,7 +398,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
                                     android:text="INDONESIA"
-                                    android:textColor="#fff"
+                                    android:textColor="#000000"
                                     android:textSize="20dp"
                                     android:textStyle="bold" />
 
@@ -435,7 +435,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
                                     android:text="BAHASA"
-                                    android:textColor="#fff"
+                                    android:textColor="#000000"
                                     android:textSize="20dp"
                                     android:textStyle="bold" />
 
@@ -444,7 +444,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
                                     android:text="INGGRIS"
-                                    android:textColor="#fff"
+                                    android:textColor="#000000"
                                     android:textSize="20dp"
                                     android:textStyle="bold" />
 
@@ -491,7 +491,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -528,7 +528,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -573,7 +573,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -610,7 +610,7 @@
                                     android:layout_gravity="center"
                                     android:textSize="20dp"
                                     android:textStyle="bold"
-                                    android:textColor="#fff" />
+                                    android:textColor="#000000" />
 
                                 <TextView
                                     android:layout_width="wrap_content"
@@ -619,7 +619,7 @@
                                     android:text="BUDAYA"
                                     android:textStyle="bold"
                                     android:textSize="20dp"
-                                    android:textColor="#fff"/>
+                                    android:textColor="#000000"/>
 
                             </LinearLayout>
 
@@ -663,7 +663,7 @@
                                     android:layout_height="wrap_content"
                                     android:layout_gravity="center"
                                     android:text="IPS"
-                                    android:textColor="#fff"
+                                    android:textColor="#000000"
                                     android:textSize="20dp"
                                     android:textStyle="bold" />
 

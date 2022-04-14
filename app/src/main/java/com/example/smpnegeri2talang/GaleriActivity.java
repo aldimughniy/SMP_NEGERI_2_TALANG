@@ -29,11 +29,9 @@ public class GaleriActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void kemah(View view) {
-    }
-
-    public void albumosis(View view) {
-        Intent intent = new Intent(GaleriActivity.this, albumosisActivity.class);
+    public void berbagi(View view) {
+        Intent intent = new Intent(GaleriActivity.this, BerbagiActivity.class);
         startActivity(intent);
     }
+    
 }
