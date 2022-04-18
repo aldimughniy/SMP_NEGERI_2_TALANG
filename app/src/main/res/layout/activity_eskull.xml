@@ -18,6 +18,18 @@
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="195dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="210dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/ayoikut" />
+
+                </RelativeLayout>
+
                 <androidx.core.widget.NestedScrollView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
