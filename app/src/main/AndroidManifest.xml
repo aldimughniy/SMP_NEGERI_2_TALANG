@@ -70,6 +70,9 @@
             android:name=".VollyActivity"
             android:exported="false" />
         <activity
+            android:name=".BerbagiActivity"
+            android:exported="false" />
+        <activity
             android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>

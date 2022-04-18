@@ -27,11 +27,12 @@ public class GaleriActivity extends AppCompatActivity {
     public void adiwiyata(View view) {
         Intent intent = new Intent(GaleriActivity.this, AdiwiyataActivity.class);
         startActivity(intent);
+
     }
 
     public void berbagi(View view) {
-        Intent intent = new Intent(GaleriActivity.this, BerbagiActivity.class);
+        Intent intent = new Intent(GaleriActivity.this,BerbagiActivity.class);
         startActivity(intent);
     }
-    
+
 }
