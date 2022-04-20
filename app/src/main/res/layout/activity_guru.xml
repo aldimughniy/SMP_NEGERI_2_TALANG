@@ -2320,7 +2320,7 @@
                     android:layout_margin="10dp"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:src="@drawable/dany" />
+                    android:src="@drawable/danistaf" />
 
                 <LinearLayout
                     android:layout_width="match_parent"
