@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.smpnegeri2talang"
+        applicationId "com.profil.smpnegeri2talang"
         minSdkVersion 19
         targetSdkVersion 32
         versionCode 1

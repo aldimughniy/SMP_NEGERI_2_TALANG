@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.smpnegeri2talang">
+    package="com.profil.smpnegeri2talang">
 
     <application
         android:allowBackup="true"
@@ -10,70 +10,70 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2TALANG">
         <activity
-            android:name=".AdiwiyataActivity"
+            android:name="com.profil.smpnegeri2talang.AdiwiyataActivity"
             android:exported="false" />
         <activity
-            android:name=".MenuActivity"
+            android:name="com.profil.smpnegeri2talang.MenuActivity"
             android:exported="false" />
         <activity
-            android:name=".visimisActivity"
+            android:name="com.profil.smpnegeri2talang.visimisActivity"
             android:exported="false" />
         <activity
-            android:name=".albumpramukaActivity"
+            android:name="com.profil.smpnegeri2talang.albumpramukaActivity"
             android:exported="false" />
         <activity
-            android:name=".albumhutriActivity"
+            android:name="com.profil.smpnegeri2talang.albumhutriActivity"
             android:exported="false" />
         <activity
-            android:name=".guruActivity"
+            android:name="com.profil.smpnegeri2talang.guruActivity"
             android:exported="false" />
         <activity
-            android:name=".osisActivity"
+            android:name="com.profil.smpnegeri2talang.osisActivity"
             android:exported="false" />
         <activity
-            android:name=".PramukaActivity"
+            android:name="com.profil.smpnegeri2talang.PramukaActivity"
             android:exported="false" />
         <activity
-            android:name=".silatActivity"
+            android:name="com.profil.smpnegeri2talang.silatActivity"
             android:exported="false" />
         <activity
-            android:name=".PmrActivity"
+            android:name="com.profil.smpnegeri2talang.PmrActivity"
             android:exported="false" />
         <activity
-            android:name=".Buku7Activity"
+            android:name="com.profil.smpnegeri2talang.Buku7Activity"
             android:exported="false" />
         <activity
-            android:name=".Buku8Activity"
+            android:name="com.profil.smpnegeri2talang.Buku8Activity"
             android:exported="false" />
         <activity
-            android:name=".Buku9Activity"
+            android:name="com.profil.smpnegeri2talang.Buku9Activity"
             android:exported="false" />
         <activity
-            android:name=".FasilitasActivity"
+            android:name="com.profil.smpnegeri2talang.FasilitasActivity"
             android:exported="false" />
         <activity
-            android:name=".GaleriActivity"
+            android:name="com.profil.smpnegeri2talang.GaleriActivity"
             android:exported="false" />
         <activity
-            android:name=".PerpusActivity"
+            android:name="com.profil.smpnegeri2talang.PerpusActivity"
             android:exported="false" />
         <activity
-            android:name=".ProfilActivity"
+            android:name="com.profil.smpnegeri2talang.ProfilActivity"
             android:exported="false" />
         <activity
-            android:name=".ekskullActivity"
+            android:name="com.profil.smpnegeri2talang.ekskullActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.profil.smpnegeri2talang.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".VollyActivity"
+            android:name="com.profil.smpnegeri2talang.VollyActivity"
             android:exported="false" />
         <activity
-            android:name=".BerbagiActivity"
+            android:name="com.profil.smpnegeri2talang.BerbagiActivity"
             android:exported="false" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name="com.profil.smpnegeri2talang.SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
